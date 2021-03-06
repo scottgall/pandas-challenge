@@ -9,9 +9,9 @@ This repository contains an [IPython Notebook]('PyCitySchools/PyCitySchools.ipyn
 * Scores by school spending
 * Scores by school type
 
-## Observable Trends
-* `Charter` schools in this district tend to have better overall scores than `District` schools. The top 5 performing schools based on overall passing percentages (math & reading) are all Charter schools, while the bottom 5 performing schools were all District schools. %90.43 of students at Charter schools were passing overall while only %53.67 of students at District schools were passing overall.
-* School spending per student seemed to correlate with performance. %90.37 of students attending schools where the per-student spending was above $585 were passing overall. The percentage of passing students declined as school spending decreased.
+## Observable Trends 📈
+* `Charter` schools in this district tend to have better overall scores than `District` schools. The top 5 performing schools based on overall passing percentages (math & reading) are all Charter schools, while the bottom 5 performing schools were all District schools. 90% of students at Charter schools were passing overall while only 53% of students at District schools were passing overall.
+* School spending per student seemed to correlate with performance. 90% of students attending schools where the per-student spending was above $585 were passing overall. The percentage of passing students declined as school spending decreased.
 
 
 
