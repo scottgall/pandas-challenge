@@ -1,5 +1,5 @@
 # School District Analysis 🏫 🐍 🐼
-This repository contains an [IPython Notebook]('PyCitySchools/PyCitySchools.ipynb') that uses the [Pandas](https://pandas.pydata.org/) library to analyzes district-wide standardized test results. To showcase trends in school performance, the data is aggregated into the following tables:
+This repository contains an [IPython Notebook]('PyCitySchools/PyCitySchools.ipynb') that uses the [Pandas](https://pandas.pydata.org/) library to analyzes district-wide standardized test results. To showcase trends in academic performance, data is aggregated into the following tables:
 * District-wide summary
 * By-school summary
 * Top performing schools
@@ -8,6 +8,10 @@ This repository contains an [IPython Notebook]('PyCitySchools/PyCitySchools.ipyn
 * Reading scores by grade
 * Scores by school spending
 * Scores by school type
+
+## Observable Trends
+* `Charter` schools in this district tend to have better overall scores than `District` schools. The top 5 performing schools based on overall passing percentages (math & reading) are all Charter schools, while the bottom 5 performing schools are all District schools. %90.43 of students at Charter schools were passing overall while only %53.67 of students at District schools were passing overall.
+* School spending per student seems to correlate with performance. %90.37 of students attending schools where the per-student spending was above $585 were passing overall. The percentage of passing students declines as school spending decreases.
 
 
 
