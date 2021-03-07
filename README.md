@@ -1,5 +1,5 @@
 # School District Analysis 🏫 🐍 🐼
-This repository contains an [IPython Notebook]('PyCitySchools/PyCitySchools.ipynb') that uses the [Pandas](https://pandas.pydata.org/) library to analyzes district-wide standardized test results. To showcase trends in academic performance, data is aggregated into the following tables:
+This repository contains an [IPython Notebook]('https://ipython.org/notebook.html') called [PyCitySchool.ipynb]('PyCitySchools/PyCitySchools.ipynb') that uses the [Pandas](https://pandas.pydata.org/) library to analyzes district-wide standardized test results. To showcase trends in academic performance, data is aggregated into the following tables:
 * District-wide summary
 * By-school summary
 * Top performing schools
